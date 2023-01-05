@@ -1,0 +1,36 @@
+---
+title: "About"
+image: LPBO_profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/Nati_SanchezU
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/natalie-v-sánchez-066a73244/
+    - icon: github
+      text: Github
+      href: https://github.com/natingui
+
+---
+
+Behavioural ecologist interested in Animal Communication, Tropical Birds, and Bioacoustics.
+
+# Current Position  
+
+Postdoctoral Fellow, MITACS Accelerate Grant at University of Windsor   
+
+Behavioural Ecology and Animal Communication Laboratory [Dan Mennill Lab](https://web2.uwindsor.ca/courses/biology/dmennill/index.html). 
+
+
+
+# Education
+
+Ph.D. in Ecology, University of Alberta, Canada, 2022.
+
+M.Sc. in Conservation and Wildlife Management, National University, Costa Rica. 2012.
+
+Bachelor in Biology. University of Costa Rica, Costa Rica. 2008.
+
