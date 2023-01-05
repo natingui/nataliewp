@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  title: "Natalie V. Sánchez"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/natingui
+      - icon: twitter
+        href: https://twitter.com/Nati_SanchezU
+format:
+  html:
+    theme: minty
+    css: styles.css
+
+
+

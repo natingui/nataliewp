@@ -1,0 +1,17 @@
+---
+title: "Current position"
+author: "Natalie"
+date: "2022-12-30"
+categories: [news]
+editor: visual
+image: "Nati_LPBO.jpg"
+---
+
+**Postdoctoral researcher working with Dr. Dan Mennill at University of Windsor.**
+
+
+In March 2022, I joined officially Dr. Dan Mennill's Lab as a Postdoctoral Researcher with financial support from Mitacs Accelarate Grant, Birds Canada, and Wildlife Acoustics. 
+
+We also have financial support from Guanacaste Dry Forest Conservation Fund. 
+
+Visit my Projects to learn more!
