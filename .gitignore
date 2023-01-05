@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # History files
 .Rhistory
 .Rapp.history
@@ -39,11 +40,17 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 =======
+=======
+>>>>>>> d979352 (Template files for my blogpost)
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
 
 /.quarto/
+<<<<<<< HEAD
+/_site/
+>>>>>>> d979352 (Template files for my blogpost)
+=======
 /_site/
 >>>>>>> d979352 (Template files for my blogpost)
