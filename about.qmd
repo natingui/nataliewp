@@ -13,8 +13,9 @@ about:
     - icon: github
       text: Github
       href: https://github.com/natingui
-    - text: Email
-      href: natingui@gmail.com
+    - icon: envelope
+      text: Email
+      href: https://gmail.com/
 
 ---
 
